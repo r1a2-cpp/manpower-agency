@@ -1,0 +1,23 @@
+{
+  "name": "manpower-agency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r1a2-cpp/manpower-agency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r1a2-cpp/manpower-agency/issues"
+  },
+  "homepage": "https://github.com/r1a2-cpp/manpower-agency#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
