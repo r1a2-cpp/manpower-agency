@@ -3,3 +3,7 @@ use gmail for c01xpp@gmail.com
 github- c01xpp@gmail.com
 
 mongodb altas- c01xpp@gmail.com
+user name - reaz
+PASSWORD- REAZ2025
+db name = myAppDB
+collecntion = candidates
